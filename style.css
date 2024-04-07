@@ -1,0 +1,21 @@
+header {
+   background-color: rgb(89, 238, 238);
+   padding: 25px 15px;
+   margin: 0;
+}
+
+header h1 {
+    color: rgb(8, 113, 225);
+    font-weight: bold;
+    font-size: 40px;
+}
+header  a {
+    font-size: 25px;
+    margin: 0 10px;
+    color: rgb(14, 106, 234);
+    border: 2px solid rgb(234, 233, 243);
+    background-color: rgb(243, 196, 24);
+    padding: 0 10px;
+    text-decoration: none;
+    border-radius: 40px;
+}
