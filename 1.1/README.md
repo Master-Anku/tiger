@@ -1,4 +1,5 @@
 # Run Buddy 
+- Run Buddy ဆိုတာ 
 - သင်ယူမှု့ကို လေ့ကျင့်သော Repo 
 - တစ်ခု ဖြစ်ပါတယ် ။
 
@@ -22,6 +23,7 @@
 - လုပ်သလို မဖြစ်လို့ စိတ်မပျက်ပါနဲ့ 
 - သင်နားမလည်ရင် 
 - အခြားနားလည်တဲ့ သူကို မေးပါ 
+
 ###  Member Groups 
 -----
 - Mg Yin Nyein
@@ -30,4 +32,8 @@
 ### Used  Language 
 
 - Html Language 
+
+### လေ့လာနိုင်ရန် လမ်းညွှန်များ 
+- PannaCollege.org
+- w3schools.com 
 
