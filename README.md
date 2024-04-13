@@ -17,8 +17,6 @@
 
 
 ## အဖွဲ့ဝင်များ 
-
-- U Dhama
 - Maung Yin Nyein
 - Maung Kyaw Zay Ya
 - Ma Waing Shwe Yee
